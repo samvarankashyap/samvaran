@@ -1,2 +1,2 @@
 def cli():
-    print 'Hello there!'
+    print('Hello there!')
